@@ -8,3 +8,5 @@ Goals for this assignment:
 2. get practice using the DOM to update HTML elements
 3. get practice using event handlers
 4. serve our website with node/express
+
+* note node_module file was to huge to upload for github *
